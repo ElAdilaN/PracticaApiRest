@@ -1,0 +1,99 @@
+{
+  "createdAt": "2024-01-01T09:00:00Z",
+  "updatedAt": "2024-11-17T21:38:33.228Z",
+  "books": [
+    {
+      "id": "b27e3087-43ee-4b0a-910b-bc1da3a1c74e",
+      "details": {
+        "title": "1984",
+        "author": "George Orwell",
+        "publishedYear": 1949,
+        "genres": [
+          "Dystopian",
+          "Political Fiction"
+        ],
+        "summary": "A dystopian novel set in a totalitarian regime under constant surveillance."
+      }
+    },
+    {
+      "id": "ca5e0534-ef52-4741-b3c8-e30bc3b7c1b5",
+      "details": {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publishedYear": 1960,
+        "genres": [
+          "Classic",
+          "Drama"
+        ],
+        "summary": "A novel about the serious issues of race and class in the Deep South."
+      }
+    },
+    {
+      "id": "abef9c57-8e65-43f7-bd69-e5e8f74a3aef",
+      "details": {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "publishedYear": 1932,
+        "genres": [
+          "Dystopian",
+          "Science Fiction"
+        ],
+        "summary": "A novel that presents a future society driven by technological advancements and social stability."
+      }
+    },
+    {
+      "id": "8ef2a6b5-c79c-4c3f-b14d-5c7f759dbade",
+      "details": {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "publishedYear": 1851,
+        "genres": [
+          "Adventure",
+          "Classic"
+        ],
+        "summary": "A tale of obsession and revenge as Captain Ahab hunts the elusive white whale, Moby Dick."
+      }
+    },
+    {
+      "id": "60b4448d-00b2-43be-9502-b06e285053c7",
+      "details": {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publishedYear": 1813,
+        "genres": [
+          "Classic",
+          "Romance"
+        ],
+        "summary": "A novel that explores themes of love, class, and social standing in 19th-century England."
+      }
+    },
+    {
+      "id": "754cb16a-7142-49ef-abbf-5eb7e00ce5c0",
+      "details": {
+        "title": "Noureddin's life 2 Updated ",
+        "author": "Noureddin 2 Updated ",
+        "publishedYear": 2055,
+        "genres": [
+          "Adventure Updated ",
+          "StoryTelling",
+          "Patata",
+          "2"
+        ],
+        "summary": "ok bye . 🙂 again Updated "
+      }
+    },
+    {
+      "id": "6052a98d-4bdc-44e9-8250-6fcd7da81577",
+      "details": {
+        "title": "test add book ",
+        "author": "George Orwell",
+        "publishedYear": 1949,
+        "genres": [
+          "Dystopian",
+          "Political Fiction"
+        ],
+        "summary": "A dystopian novel set in a totalitarian regime under constant surveillance."
+      }
+    }
+  ]
+}
